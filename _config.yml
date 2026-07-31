@@ -3,17 +3,24 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 大船博客
+subtitle: Keep Learning, Keep Shooting
+description: Personal blog about technology, investing and life.
 keywords:
-author: John Doe
-language: en
-timezone: ''
+  - 技术
+  - 投资
+  - 摄影
+  - 生活
+  - 读书
+  - 思考
+author: Dachuan
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://dachuanblog.xyz
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,7 +103,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
